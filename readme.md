@@ -75,6 +75,8 @@ nagish-app/
 ## 📸 Screenshots
 
 <img src = "ss.png">
+Do Check it out using the Link given Below:
+<a href = "https://nagish-app.vercel.app/">
 
 ---
 
