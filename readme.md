@@ -96,6 +96,6 @@ Thanks to:
 
 **Kunal Kushwaha**  
 Frontend & Accessibility Enthusiast  
-GitHub: [@KunalxKushwaha](https://github.com/KunalxKushwaha)
+GitHub: [KunalxKushwaha](https://github.com/KunalxKushwaha)
 
 
