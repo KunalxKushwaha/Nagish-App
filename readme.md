@@ -89,14 +89,14 @@ MIT License — Feel free to use, modify, and share with credit.
 ## ❤️ Acknowledgements
 
 Thanks to:
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) for Speech API documentation
-- [Tailwind CSS](https://tailwindcss.com) for rapid UI development
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) for Speech API documentation.
+- [Tailwind CSS](https://tailwindcss.com) for rapid UI development.
 
 ---
 
 ## 👨‍💻 Developed by
 
-**Kunal Kushwaha**
+**Kunal Kushwaha**<br>
 Frontend & Accessibility Enthusiast  
 GitHub: [KunalxKushwaha](https://github.com/KunalxKushwaha)
 
