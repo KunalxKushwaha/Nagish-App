@@ -1,5 +1,4 @@
-cat << 'EOF' > README.md
-# 🗣️ Nagish App - Text ↔ Speech Converter
+# 🗣️ Nagish App
 
 The **Nagish App** is an elegant, modern web application designed to assist users by **translating written text into speech** and **speech into text** using native browser APIs. Tailored for accessibility, interactivity, and clean design, this project is perfect for educational, personal, and assistive technology purposes.
 
@@ -97,6 +96,6 @@ Thanks to:
 
 **Kunal Kushwaha**  
 Frontend & Accessibility Enthusiast  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@KunalxKushwaha](https://github.com/KunalxKushwaha)
 
-EOF
+
