@@ -74,7 +74,7 @@ nagish-app/
 
 ## 📸 Screenshots
 
-> *(You can capture and attach images of the UI here)*
+<img src = "ss.png">
 
 ---
 
